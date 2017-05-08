@@ -1,0 +1,23 @@
+{
+  "name": "generator-vue-app",
+  "version": "1.0.0",
+  "description": "Based on the vue webapp scaffold generator",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hahacoo/generator-vue-web.git"
+  },
+  "keywords": [
+    "vue",
+    "yeoman"
+  ],
+  "author": "hahacoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hahacoo/generator-vue-web/issues"
+  },
+  "homepage": "https://github.com/hahacoo/generator-vue-web#readme"
+}
